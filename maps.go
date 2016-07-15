@@ -29,26 +29,26 @@ func main() {
 
 	dominicanRepublic := map[string]map[string]string {
 
-		"Altamira":             map[string]string {
-				"name"      :   "Puerto Plata",
-			    "population":   "19,052",
-				"area-km2"  :   "179.32",
-				"density"   :   "106/km2"
-				"area code" :   "57091"
+		"Altamira": map[string]string {
+			"name"      :   "Puerto Plata",
+			"population":   "19,052",
+			"area-km2"  :   "179.32",
+			"density"   :   "106/km2",
+			"area code" :   "57091",
 		}
-		"Arenoso":              map[string]string {
+		"Arenoso":  map[string]string {
 				"name"      :   "Duarte",
 				"population":   "15,122",
 				"area-km2"  :   "142.20",
-				"density"   :   "106/km2"
-				"area code" :   "31006"
+				"density"   :   "106/km2",
+				"area code" :   "31006",
 		}
 		"Azua de Compostela":   map[string]string {
 				"name"      :   "Azua",
 				"population":   "125,487",
 				"area-km2"  :   "416.30",
-				"density"   :   "301/km2"
-				"area code" :   "71000"
+				"density"   :   "301/km2",
+				"area code" :   "71000",
 		}
 
 	}
