@@ -52,6 +52,9 @@ func main() {
 		},
 
 	}
+	if el, ok := dominicanRepublic["Arenoso"]; ok {
+		fmt.Println(el["name"],el["population"])
+	}
 
 
 }
